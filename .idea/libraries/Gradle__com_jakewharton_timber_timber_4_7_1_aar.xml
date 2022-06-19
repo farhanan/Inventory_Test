@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.timber:timber:4.7.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8035d19c39463c0ed6caf89c46501da0/transformed/jetified-timber-4.7.1/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/8035d19c39463c0ed6caf89c46501da0/transformed/jetified-timber-4.7.1/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/4644623d9d82c4ade28fde88dd9a9ec0/transformed/jetified-timber-4.7.1/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/4644623d9d82c4ade28fde88dd9a9ec0/transformed/jetified-timber-4.7.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/transforms-3/4644623d9d82c4ade28fde88dd9a9ec0/transformed/jetified-timber-4.7.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/746f28c804e92fe2b0dd553616c78b1c3693ba16/timber-4.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

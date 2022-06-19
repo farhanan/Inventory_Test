@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate:1.1.0-beta01@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/abb724922256240f51afbc8138eceaa6/transformed/jetified-savedstate-1.1.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/abb724922256240f51afbc8138eceaa6/transformed/jetified-savedstate-1.1.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/transforms-3/abb724922256240f51afbc8138eceaa6/transformed/jetified-savedstate-1.1.0-beta01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.1.0-beta01/73464c2c55129727354a95ffa91dc9c2cf0c78b/savedstate-1.1.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

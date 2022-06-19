@@ -1,0 +1,14 @@
+<resources>
+
+    <!--Bottom Nav-->
+    <string name="nav_menu_home">Beranda</string>
+    <string name="nav_menu_cart">Pesanan</string>
+    <string name="nav_menu_profile">Akun</string>
+    <string name="nav_menu_cd_home">Beranda</string>
+    <string name="nav_menu_cd_cart">Pesanan</string>
+    <string name="nav_menu_cd_profile">Akun</string>
+
+    <string name="save">Simpan</string>
+    <string name="item_list">Item List</string>
+    <string name="item_mutation">Item Mutation</string>
+</resources>

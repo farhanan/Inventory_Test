@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Todo : Add StartDestination Here (Splash)-->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/splash_fragment"
+    android:id="@+id/nav_main_graph">
+
+    <fragment
+        android:id="@+id/main_fragment"
+        android:name="com.farhan.test.ui.main.MainFragment"
+        tools:layout="@layout/fragment_main"/>
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.farhan.test.register.RegisterFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/register_home_fragment">
+
+        <action
+            android:id="@+id/action_registerFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.farhan.test.login.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login">
+
+        <action
+            android:id="@+id/actionSplashFragmentToMainFragment"
+            app:destination="@id/main_fragment"
+            app:popUpToInclusive="true"/>
+
+        <action
+            android:id="@+id/action_loginFragment_to_homeFragment"
+            app:destination="@id/registerFragment" />
+
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/splash_fragment"
+        android:name="com.farhan.test.ui.splashscreen.SplashScreenFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_splash_screen">
+
+        <action
+            android:id="@+id/actionSplashFragmentToMainFragment"
+            app:destination="@id/loginFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+
+</navigation>

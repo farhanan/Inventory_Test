@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Farhan_Test.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Farhan_Test.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Farhan_Test.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Farhan_Test.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Farhan_Test.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Farhan_Test.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Item_Test.iml" filepath="$PROJECT_DIR$/.idea/modules/Item_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Item_Test.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Item_Test.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Item_Test.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Item_Test.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Item_Test.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Item_Test.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Item_Test.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Item_Test.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

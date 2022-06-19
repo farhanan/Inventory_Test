@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.datastore:datastore-core:1.0.0-alpha02@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ac39897143512776b7b646b149eb2ccc/transformed/jetified-datastore-core-1.0.0-alpha02/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/ac39897143512776b7b646b149eb2ccc/transformed/jetified-datastore-core-1.0.0-alpha02/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/bb7f4b2901039bc756cc8171e47c895a/transformed/jetified-datastore-core-1.0.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/bb7f4b2901039bc756cc8171e47c895a/transformed/jetified-datastore-core-1.0.0-alpha02/res" />
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/transforms-3/bb7f4b2901039bc756cc8171e47c895a/transformed/jetified-datastore-core-1.0.0-alpha02/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/modules-2/files-2.1/androidx.datastore/datastore-core/1.0.0-alpha02/bdd4be947d8e310b4636c18db4cc6bf726b21484/datastore-core-1.0.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
